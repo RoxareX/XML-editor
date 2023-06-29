@@ -1,0 +1,17 @@
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\obj\Debug\net7.0-windows\XML editor 2.csproj.AssemblyReference.cache
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\obj\Debug\net7.0-windows\XML editor 2.csproj.GenerateResource.cache
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\obj\Debug\net7.0-windows\XML editor 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\obj\Debug\net7.0-windows\XML editor 2.AssemblyInfoInputs.cache
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\obj\Debug\net7.0-windows\XML editor 2.AssemblyInfo.cs
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\obj\Debug\net7.0-windows\XML editor 2.csproj.CoreCompileInputs.cache
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\bin\Debug\net7.0-windows\XML editor 2.exe
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\bin\Debug\net7.0-windows\XML editor 2.deps.json
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\bin\Debug\net7.0-windows\XML editor 2.runtimeconfig.json
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\bin\Debug\net7.0-windows\XML editor 2.dll
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\bin\Debug\net7.0-windows\XML editor 2.pdb
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\obj\Debug\net7.0-windows\XML_editor_2.Form1.resources
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\obj\Debug\net7.0-windows\XML editor 2.dll
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\obj\Debug\net7.0-windows\refint\XML editor 2.dll
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\obj\Debug\net7.0-windows\XML editor 2.pdb
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\obj\Debug\net7.0-windows\XML editor 2.genruntimeconfig.cache
+C:\Users\fragi\source\repos\XML editor 2\XML editor 2\obj\Debug\net7.0-windows\ref\XML editor 2.dll
